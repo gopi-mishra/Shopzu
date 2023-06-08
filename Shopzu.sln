@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopzu.web", "Shopzu.web\Shopzu.web.csproj", "{25985C81-3EEB-4D16-94EB-9FCDD243851A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopzu.Entitie", "Shopzu.Entitie\Shopzu.Entitie.csproj", "{C2C6A473-9047-4C97-984E-C4C024C66848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopzu.Databases", "Shopzu.Databases\Shopzu.Databases.csproj", "{B796369D-DD9A-407C-BCD3-2DE74F2428FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{25985C81-3EEB-4D16-94EB-9FCDD243851A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25985C81-3EEB-4D16-94EB-9FCDD243851A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25985C81-3EEB-4D16-94EB-9FCDD243851A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C6A473-9047-4C97-984E-C4C024C66848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C6A473-9047-4C97-984E-C4C024C66848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C6A473-9047-4C97-984E-C4C024C66848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C6A473-9047-4C97-984E-C4C024C66848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B796369D-DD9A-407C-BCD3-2DE74F2428FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B796369D-DD9A-407C-BCD3-2DE74F2428FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B796369D-DD9A-407C-BCD3-2DE74F2428FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B796369D-DD9A-407C-BCD3-2DE74F2428FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
